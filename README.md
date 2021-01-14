@@ -16,7 +16,7 @@ Cave for devs is a project created for devs and students ready to learn, grow an
 4. finding a lot of resources for practise various CS challenges and assignments for the university 
 5. helping prepare for your interview
 
-This is a brand new project and it has no a lot of resources at this point. I hope, with the help of community, we will create a real oasis, cave for devs. For developers, from developers :heart: :handshake: 
+This is a brand new project and it has no resources at this point. I hope, with the help of community, we will create a real oasis, cave for devs. For developers, from developers :heart: :handshake: 
 
 ## How to start? :beginner: 
 You can refer to the following articles from GitHub docs:
